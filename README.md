@@ -11,7 +11,8 @@ Api Endpoint:
   currency:
   https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/bdt.json
 
-  
+  Logos:<br>
+  https://flagsapi.com/BD/flat/64.png
 
   
 Steps to see it running:
