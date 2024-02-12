@@ -7,7 +7,12 @@
 
 
 Api Endpoint:
+
+  currency:
   https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/usd/bdt.json
+
+  
+
   
 Steps to see it running:
 
