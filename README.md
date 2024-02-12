@@ -1,4 +1,7 @@
 # CurrencyConverter
+<br>
+This project show a simple use of apis.<br>
+<br>
  Technologies:
 
   -HTML<br>
